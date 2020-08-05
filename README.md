@@ -14,4 +14,4 @@ Sou um Dev recém formado, aprendendo a amar oque faço.
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelZanetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-zanetti-11ab85169/)](https://www.linkedin.com/in/rafael-zanetti-11ab85169/) 
 | 
-[![Outlook Badge](https://img.shields.io/badge/-rafaelfzanetti@hotmail.com-blue?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:rafaelfzanetti@hotmail.com)](rafaelfzanetti@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafaelfzanetti@hotmail.com-blue?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:rafaelfzanetti@hotmail.com)](rafaelfzanetti@hotmail.com)
