@@ -4,7 +4,7 @@
 Sou um Dev recém formado, aprendendo a amar oque faço.
 <br/>Sou um FullStack Developer :computer:
 <br/>Formado como Bacharel em Ciências da Computação :scroll:
-<br/>Estudante de Jogos Digitais :space_invader:
+<br/>Ex-estudante de Jogos Digitais :space_invader:
 
  <br/> 🚀 &nbsp; Atualmente empregado na VIP Telecom
  <br/> 🧰 &nbsp; Buscando colaborar com projetos em Front-end e Back-end
