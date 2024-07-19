@@ -9,7 +9,7 @@
 <br/> Studied Game Develop :space_invader:
 
  <br/> 🚀 &nbsp; Currently working at CI&T
- <br/> 🧰 &nbsp; Seeking to contribute with Front & Back-end 
+ <br/> 🧰 &nbsp; Seeking to contribute with Front & Back-end development
  
  <br/> :computer: &nbsp; My stack right now: ReactJS, Node.js, React Native, Typescript, Rust, Java & SpringBoot
  <br/> 💬  &nbsp; About me: I like to study and research about IT, gaming, RPG and nerd stuff
