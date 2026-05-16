@@ -26,7 +26,7 @@
 <br/>Formado como Bacharel em Ciências da Computação :scroll:
 <br/>Ex-estudante de Jogos Digitais :space_invader:
 
- <br/> 🚀 &nbsp; Atualmente empregado na CI&T
+ <br/> 🚀 &nbsp; Atualmente empregado na Virtasant
  <br/> 🧰 &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Rust, Java & SpringBoot
